@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/benserkis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:BenSerkis@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <!--
